@@ -21,4 +21,4 @@ int main() {
   xu hai
   Enter your favorite dessert:
   fish eggs
-  I have some delicious fish eggs for you, xu hai. 
+  I have some delicious fish eggs for you, xu hai.  
