@@ -1,6 +1,5 @@
 
 #include <iostream>
-
 int main() {
     using namespace std;
     const int ArSize = 20;
