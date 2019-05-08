@@ -15,7 +15,6 @@ int main() {
 }
 
 
-
 运行结果：
 what year was your house built?
 2019
